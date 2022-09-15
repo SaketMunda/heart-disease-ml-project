@@ -1,7 +1,22 @@
 # Predicting Heart Disease using Machine Learning
 This repository consist of ML experiments in form of notebook, which looks into using various Python-libraries of Machine Learning and Data Science in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
 
-## Approaches that are followed
+
+## Prerequisites
+
+### Environment
+
+Install MiniConda, for detailed setup [check](https://github.com/SaketMunda/ml-ds-tools-library-introduction#environment-setup)
+
+### Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn (for heatmaps)
+- Scikit-Learn
+
+## Steps followed
 1. Problem Definition
 2. Data Exploration
 3. Evaluation
@@ -59,3 +74,4 @@ Download it from [UCI Heart Disease Data Set](https://archive.ics.uci.edu/ml/dat
 1. Logistic Regression
 2. RandomForest Classifier
 3. K-Nearest Neighbours
+
