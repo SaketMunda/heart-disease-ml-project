@@ -16,6 +16,10 @@ Install MiniConda, for detailed setup [check](https://github.com/SaketMunda/ml-d
 - Seaborn (for heatmaps)
 - Scikit-Learn
 
+### Workspace
+
+- Jupyter Notebook
+
 ## Steps followed
 1. Problem Definition
 2. Data Exploration
